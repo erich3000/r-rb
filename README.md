@@ -1,1 +1,1 @@
-# React Rainbox
+# React Rainbow
