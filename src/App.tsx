@@ -4,15 +4,17 @@ export const App = () => {
   return (
     <div
       style={{
-        fontSize: "30px",
+        fontSize: "80px",
         textAlign: "center",
-        marginTop: "50vh"
+        marginTop: "50vh",
+        backgroundColor: "#000000",
+        fontFamily: "Arial",
       }}
     >
-      <span style={{ color: "red" }}>RA</span>
-      <span style={{ color: "yellow" }}>IN</span>
-      <span style={{ color: "green" }}>BO</span>
-      <span style={{ color: "blue" }}>W</span>
+      <span style={{ color: "red" }}>JOB</span>
+      <span style={{ color: "yellow" }}>RAD</span>
+      <span style={{ color: "green" }}>RAIN</span>
+      <span style={{ color: "blue" }}>BOW</span>
     </div>
   );
 };
